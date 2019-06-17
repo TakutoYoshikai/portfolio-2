@@ -45,6 +45,7 @@ p {
   padding-bottom: 20px;
   padding-left: 20px;
   padding-right: 20px;
+  box-shadow: 4px 4px 15px;
 }
 
 .column--light img {
@@ -60,4 +61,8 @@ p {
 
 .contact p {
   text-align: center;
+}
+
+.publications {
+  padding-top: 8px;
 }
