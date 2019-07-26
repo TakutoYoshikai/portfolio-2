@@ -15,7 +15,6 @@ p {
 }
 .page {
   background-color: #CC00CC;
-  padding-top: 50px;
 }
 
 .site-title {
@@ -65,4 +64,14 @@ p {
 
 .publications {
   padding-top: 8px;
+}
+
+.english-page {
+  padding-bottom: 50px;
+  text-align: right;
+  margin-right: 30px;
+}
+
+.english-page a {
+  color: white!important;
 }
