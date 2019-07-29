@@ -53,6 +53,7 @@ p {
   margin-left: auto;
 }
 .self-image {
+  padding-top: 50px;
   width: 300px;
   margin-left: auto;
   margin-right: auto;
@@ -67,7 +68,6 @@ p {
 }
 
 .english-page {
-  padding-bottom: 50px;
   text-align: right;
   margin-right: 30px;
 }
